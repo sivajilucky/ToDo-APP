@@ -1,4 +1,4 @@
-ToDo App
+<h1>ToDo App<h1/> <br/>
 #The App will helps to set the priorities of the Day where you can update,and Delete when the Task was finished<br/>
-#It has backend support ,Firebase
-![Screenshot (141)](https://user-images.githubusercontent.com/60440922/201517211-43e98783-c469-4419-92c0-b3c57c9e9f0f.png)
+#It has Firebase backend support
+![Screenshot (142)](https://user-images.githubusercontent.com/60440922/201517303-cc9309dd-8796-4d7c-b31c-2a44350aeba2.png)
